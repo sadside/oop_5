@@ -1,0 +1,7 @@
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/protocol/ProtocolFactory.java
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/Message.java
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/protocol/JavaSerializationProtocol.java
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/protocol/RestJsonProtocol.java
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/protocol/XmlProtocol.java
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/protocol/MessageProtocol.java
+/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-common/src/main/java/ru/vadimkhalikov/oop/lab5/common/protocol/ProtocolType.java

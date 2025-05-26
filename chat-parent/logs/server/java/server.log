@@ -1,0 +1,29 @@
+13:21:53.137 [main] INFO ru.vadimkhalikov.oop.lab5.server.Server - Server configuration loaded: port=8080, maxClients=10, loggingEnabled=true
+13:21:53.139 [main] INFO ru.vadimkhalikov.oop.lab5.server.Server - Server starting on port 8080...
+13:22:03.683 [main] INFO ru.vadimkhalikov.oop.lab5.server.Server - New client connected: /127.0.0.1:58536
+13:22:03.695 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - Client /127.0.0.1:58536 logged in as vadim.
+13:22:03.770 [pool-1-thread-1] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from vadim: USER_LIST_REQUEST
+13:22:03.771 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [vadim] requested user list.
+13:22:12.140 [main] INFO ru.vadimkhalikov.oop.lab5.server.Server - New client connected: /127.0.0.1:58537
+13:22:12.149 [pool-1-thread-2] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - Client /127.0.0.1:58537 logged in as sad.
+13:22:12.220 [pool-1-thread-2] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from sad: USER_LIST_REQUEST
+13:22:12.220 [pool-1-thread-2] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [sad] requested user list.
+13:22:19.873 [pool-1-thread-1] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from vadim: USER_MESSAGE
+13:22:19.875 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [vadim] sent message: asdadsda
+13:22:22.066 [pool-1-thread-1] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from vadim: USER_MESSAGE
+13:22:22.066 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [vadim] sent message: asdadasd
+13:22:23.423 [pool-1-thread-1] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from vadim: USER_MESSAGE
+13:22:23.424 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [vadim] sent message: asdadadasd
+13:22:28.582 [pool-1-thread-1] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from vadim: USER_MESSAGE
+13:22:28.583 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [vadim] sent message: asdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadadaasdadasdadada
+13:22:34.784 [pool-1-thread-2] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from sad: USER_MESSAGE
+13:22:34.785 [pool-1-thread-2] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [sad] sent message: asdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasdaasdasda
+13:22:44.701 [pool-1-thread-2] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Received message from sad: LOGOUT_REQUEST
+13:22:44.701 [pool-1-thread-2] INFO ru.vadimkhalikov.oop.lab5.server.ClientHandler - User [sad] requested logout.
+13:22:44.703 [pool-1-thread-2] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Closed resources for client handler sad
+13:22:44.703 [pool-1-thread-2] WARN ru.vadimkhalikov.oop.lab5.server.ClientHandler - Socket error for client sad: Socket closed. Disconnecting.
+13:22:44.703 [pool-1-thread-2] INFO ru.vadimkhalikov.oop.lab5.server.Server - Client sad disconnected.
+13:22:44.703 [pool-1-thread-2] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Closed resources for client handler sad
+13:22:54.970 [pool-1-thread-1] ERROR ru.vadimkhalikov.oop.lab5.server.ClientHandler - Error handling client vadim: null
+13:22:54.970 [pool-1-thread-1] INFO ru.vadimkhalikov.oop.lab5.server.Server - Client vadim disconnected.
+13:22:54.970 [pool-1-thread-1] DEBUG ru.vadimkhalikov.oop.lab5.server.ClientHandler - Closed resources for client handler vadim

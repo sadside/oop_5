@@ -1,0 +1,10 @@
+ru/vadimkhalikov/oop/lab5/common/protocol/RestJsonProtocol.class
+ru/vadimkhalikov/oop/lab5/common/protocol/JavaSerializationProtocol.class
+ru/vadimkhalikov/oop/lab5/common/protocol/XmlProtocol.class
+ru/vadimkhalikov/oop/lab5/common/Message$MessageType.class
+ru/vadimkhalikov/oop/lab5/common/protocol/ProtocolType.class
+ru/vadimkhalikov/oop/lab5/common/protocol/ProtocolFactory$1.class
+ru/vadimkhalikov/oop/lab5/common/protocol/ProtocolFactory.class
+ru/vadimkhalikov/oop/lab5/common/protocol/MessageProtocol.class
+ru/vadimkhalikov/oop/lab5/common/Message.class
+ru/vadimkhalikov/oop/lab5/common/protocol/XmlProtocol$1.class

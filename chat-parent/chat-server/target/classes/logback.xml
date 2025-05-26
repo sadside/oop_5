@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!-- Проверяем, установлено ли свойство для директории логов -->
+    <property name="LOG_DIR" value="${log.dir:-logs/server/java}" />
+    
+    <!-- Консольный аппендер -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    
+    <!-- Файловый аппендер -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_DIR}/server.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    
+    <!-- Ротирующийся файловый аппендер -->
+    <appender name="ROLLING_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_DIR}/server.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- Ежедневная ротация -->
+            <fileNamePattern>${LOG_DIR}/server.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <!-- Храним логи за последние 30 дней -->
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    
+    <!-- Уровень логирования по умолчанию - INFO -->
+    <root level="info">
+        <appender-ref ref="CONSOLE" />
+        <appender-ref ref="ROLLING_FILE" />
+    </root>
+    
+    <!-- Специфические настройки для пакетов -->
+    <logger name="ru.vadimkhalikov.oop.lab5.server" level="debug" />
+</configuration> 

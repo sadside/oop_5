@@ -1,0 +1,253 @@
+2025-05-02 13:53:50.324 java[17204:391407] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 13:53:50.324 java[17204:391407] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 13:53:51.310 java[17206:391520] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 13:53:51.310 java[17206:391520] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 13:54:52.891 java[17265:392505] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 13:54:52.891 java[17265:392505] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 13:54:53.864 java[17269:392618] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 13:54:53.864 java[17269:392618] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Connection lost: null
+Handling connection loss...
+Login Error: Login failed: Username "2" is already taken.
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Connection lost: null
+Handling connection loss...
+ServerListenerThread finished.
+Login Error: Login failed: Username "2" is already taken.
+Disconnecting fully...
+Fully disconnected.
+Connected to server: localhost:8080
+Login successful!
+2025-05-02 13:59:12.639 java[17484:398148] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 13:59:12.639 java[17484:398148] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 13:59:13.608 java[17488:398268] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 13:59:13.608 java[17488:398268] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+2025-05-02 14:03:31.720 java[17700:403102] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:03:31.720 java[17700:403102] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 14:03:32.724 java[17704:403232] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:03:32.724 java[17704:403232] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Disconnecting fully...
+Fully disconnected.
+2025-05-02 14:05:02.298 java[17759:404790] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:05:02.298 java[17759:404790] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 14:05:03.393 java[17761:404892] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:05:03.393 java[17761:404892] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+2025-05-02 14:07:54.476 java[17893:408271] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:07:54.477 java[17893:408271] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+2025-05-02 14:08:19.299 java[17889:408115] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:08:19.299 java[17889:408115] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connection lost: null
+Handling connection loss...
+Connection lost: null
+Handling connection loss...
+ServerListenerThread finished.
+ServerListenerThread finished.
+2025-05-02 14:10:28.863 java[18047:410962] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:10:28.863 java[18047:410962] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-02 14:10:29.812 java[18050:411062] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-02 14:10:29.812 java[18050:411062] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+2025-05-05 12:45:42.041 java[44562:2417343] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-05 12:45:42.041 java[44562:2417343] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-05 12:45:43.029 java[44564:2417439] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-05 12:45:43.030 java[44564:2417439] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+2025-05-12 13:06:17.087 java[25611:7708763] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:06:17.087 java[25611:7708763] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-12 13:06:18.079 java[25613:7708863] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:06:18.079 java[25613:7708863] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+2025-05-12 13:18:20.851 java[25911:7717888] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:18:20.851 java[25911:7717888] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-12 13:18:21.850 java[25914:7717996] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:18:21.850 java[25914:7717996] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+2025-05-12 13:19:20.088 java[26040:7719114] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:19:20.088 java[26040:7719114] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+	at java.desktop/javax.swing.ImageIcon.<init>(ImageIcon.java:255)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.createIconFromEmoji(LoginDialog.java:298)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.initComponents(LoginDialog.java:100)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.<init>(LoginDialog.java:58)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.showLoginDialog(ClientApp.java:64)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.lambda$main$0(ClientApp.java:56)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-05-12 13:19:21.091 java[26042:7719217] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:19:21.091 java[26042:7719217] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+	at java.desktop/javax.swing.ImageIcon.<init>(ImageIcon.java:255)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.createIconFromEmoji(LoginDialog.java:298)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.initComponents(LoginDialog.java:100)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.<init>(LoginDialog.java:58)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.showLoginDialog(ClientApp.java:64)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.lambda$main$0(ClientApp.java:56)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-05-12 13:19:40.791 java[26058:7719545] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:19:40.791 java[26058:7719545] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+	at java.desktop/javax.swing.ImageIcon.<init>(ImageIcon.java:255)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.createIconFromEmoji(LoginDialog.java:298)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.initComponents(LoginDialog.java:100)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.<init>(LoginDialog.java:58)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.showLoginDialog(ClientApp.java:64)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.lambda$main$0(ClientApp.java:56)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-05-12 13:19:41.784 java[26060:7719644] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:19:41.784 java[26060:7719644] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+	at java.desktop/javax.swing.ImageIcon.<init>(ImageIcon.java:255)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.createIconFromEmoji(LoginDialog.java:298)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.initComponents(LoginDialog.java:100)
+	at ru.vadimkhalikov.oop.lab5.client.LoginDialog.<init>(LoginDialog.java:58)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.showLoginDialog(ClientApp.java:64)
+	at ru.vadimkhalikov.oop.lab5.client.ClientApp.lambda$main$0(ClientApp.java:56)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-05-12 13:21:56.540 java[26159:7721769] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:21:56.540 java[26159:7721769] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+2025-05-12 13:21:57.535 java[26162:7721876] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:21:57.535 java[26162:7721876] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Disconnecting fully...
+Fully disconnected.
+Using protocol: xml
+2025-05-12 13:34:45.900 java[26728:7733283] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:34:45.900 java[26728:7733283] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: xml
+2025-05-12 13:34:46.886 java[26735:7733373] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:34:46.886 java[26735:7733373] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: xml
+2025-05-12 13:35:10.941 java[26797:7733866] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:35:10.941 java[26797:7733866] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: xml
+2025-05-12 13:35:11.920 java[26799:7733978] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:35:11.920 java[26799:7733978] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+Disconnecting fully...
+Fully disconnected.
+Using protocol: xml
+2025-05-12 13:37:27.975 java[26866:7735661] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:37:27.975 java[26866:7735661] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: xml
+2025-05-12 13:37:28.939 java[26871:7735783] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 13:37:28.940 java[26871:7735783] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+Disconnecting fully...
+Fully disconnected.

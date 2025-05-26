@@ -1,0 +1,40 @@
+01:21:50,290 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+01:21:50,290 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+01:21:50,291 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-server/target/chat-server-1.0-SNAPSHOT-jar-with-dependencies.jar!/logback.xml]
+01:21:50,296 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@1f28c152 - URL [jar:file:/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-server/target/chat-server-1.0-SNAPSHOT-jar-with-dependencies.jar!/logback.xml] is not of type file
+01:21:50,325 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+01:21:50,327 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+01:21:50,328 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [CONSOLE]
+01:21:50,332 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+01:21:50,359 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.FileAppender]
+01:21:50,361 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILE]
+01:21:50,361 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+01:21:50,362 |-INFO in ch.qos.logback.core.FileAppender[FILE] - File property is set to [logs/server/java/server.log]
+01:21:50,363 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+01:21:50,363 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [ROLLING_FILE]
+01:21:50,365 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@2106620844 - No compression will be used
+01:21:50,366 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@2106620844 - Will use the pattern logs/server/java/server.%d{yyyy-MM-dd}.log for the active file
+01:21:50,367 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - The date pattern is 'yyyy-MM-dd' from file name pattern 'logs/server/java/server.%d{yyyy-MM-dd}.log'.
+01:21:50,367 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Roll-over at midnight.
+01:21:50,372 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Setting initial period to Mon May 12 13:22:54 NOVT 2025
+01:21:50,372 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+01:21:50,373 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - Active log file name: logs/server/java/server.log
+01:21:50,373 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - File property is set to [logs/server/java/server.log]
+01:21:50,374 |-ERROR in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - 'File' option has the same value "logs/server/java/server.log" as that given for appender [FILE] defined earlier.
+01:21:50,374 |-ERROR in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - Collisions detected with FileAppender/RollingAppender instances defined earlier. Aborting.
+01:21:50,374 |-ERROR in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - For more information, please visit http://logback.qos.ch/codes.html#earlier_fa_collision
+01:21:50,374 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO
+01:21:50,374 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [CONSOLE] to Logger[ROOT]
+01:21:50,374 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [ROLLING_FILE] to Logger[ROOT]
+01:21:50,374 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [ru.vadimkhalikov.oop.lab5.server] to DEBUG
+01:21:50,374 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+01:21:50,374 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@7791a895 - Registering current configuration as safe fallback point
+
+[INFO] Configuration loaded from 'config/server.properties'
+2025-05-15 01:21:50 [main] INFO  r.v.oop.lab5.server.Server - Server configuration loaded: port=12345, maxClients=10, protocol=REST_JSON, loggingEnabled=true
+2025-05-15 01:21:50 [main] INFO  r.v.oop.lab5.server.Server - Server starting on port 12345 with protocol REST_JSON...
+2025-05-15 01:22:23 [main] INFO  r.v.oop.lab5.server.Server - New client connected: /127.0.0.1:56995
+2025-05-15 01:22:23 [pool-1-thread-1] DEBUG r.v.oop.lab5.server.ClientHandler - Closed resources for client handler null
+2025-05-15 01:22:23 [pool-1-thread-1] WARN  r.v.oop.lab5.server.ClientHandler - Login failed for /127.0.0.1:56995: Empty username.
+2025-05-15 01:22:23 [pool-1-thread-1] WARN  r.v.oop.lab5.server.ClientHandler - Socket error for client /127.0.0.1:56995: Socket closed. Disconnecting.
+2025-05-15 01:22:23 [pool-1-thread-1] DEBUG r.v.oop.lab5.server.ClientHandler - Closed resources for client handler null

@@ -1,0 +1,55 @@
+13:18:24,088 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+13:18:24,088 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback.groovy]
+13:18:24,089 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-server/target/chat-server-1.0-SNAPSHOT-jar-with-dependencies.jar!/logback.xml]
+13:18:24,093 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@1f28c152 - URL [jar:file:/Users/vadimkhalikov/Development/oop_5/chat-parent/chat-server/target/chat-server-1.0-SNAPSHOT-jar-with-dependencies.jar!/logback.xml] is not of type file
+13:18:24,121 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+13:18:24,122 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+13:18:24,124 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [CONSOLE]
+13:18:24,127 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+13:18:24,152 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.FileAppender]
+13:18:24,154 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILE]
+13:18:24,154 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+13:18:24,155 |-INFO in ch.qos.logback.core.FileAppender[FILE] - File property is set to [logs/server/java/server.log]
+13:18:24,155 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+13:18:24,156 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [ROLLING_FILE]
+13:18:24,158 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@2106620844 - No compression will be used
+13:18:24,158 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@2106620844 - Will use the pattern logs/server/java/server.%d{yyyy-MM-dd}.log for the active file
+13:18:24,159 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - The date pattern is 'yyyy-MM-dd' from file name pattern 'logs/server/java/server.%d{yyyy-MM-dd}.log'.
+13:18:24,159 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Roll-over at midnight.
+13:18:24,165 |-INFO in c.q.l.core.rolling.DefaultTimeBasedFileNamingAndTriggeringPolicy - Setting initial period to Mon May 12 13:22:54 NOVT 2025
+13:18:24,165 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+13:18:24,166 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - Active log file name: logs/server/java/server.log
+13:18:24,166 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - File property is set to [logs/server/java/server.log]
+13:18:24,167 |-ERROR in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - 'File' option has the same value "logs/server/java/server.log" as that given for appender [FILE] defined earlier.
+13:18:24,167 |-ERROR in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - Collisions detected with FileAppender/RollingAppender instances defined earlier. Aborting.
+13:18:24,167 |-ERROR in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING_FILE] - For more information, please visit http://logback.qos.ch/codes.html#earlier_fa_collision
+13:18:24,167 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO
+13:18:24,167 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [CONSOLE] to Logger[ROOT]
+13:18:24,167 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [ROLLING_FILE] to Logger[ROOT]
+13:18:24,167 |-INFO in ch.qos.logback.classic.joran.action.LoggerAction - Setting level of logger [ru.vadimkhalikov.oop.lab5.server] to DEBUG
+13:18:24,167 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+13:18:24,167 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@7791a895 - Registering current configuration as safe fallback point
+
+[INFO] Configuration loaded from 'config/server.properties'
+2025-05-26 13:18:24 [main] INFO  r.v.oop.lab5.server.Server - Server configuration loaded: port=8080, maxClients=10, protocol=XML, loggingEnabled=true
+2025-05-26 13:18:24 [main] INFO  r.v.oop.lab5.server.Server - Server starting on port 8080 with protocol XML...
+2025-05-26 13:18:29 [main] INFO  r.v.oop.lab5.server.Server - New client connected: /127.0.0.1:49837
+2025-05-26 13:18:29 [pool-1-thread-1] INFO  r.v.oop.lab5.server.ClientHandler - Client /127.0.0.1:49837 logged in as 123.
+2025-05-26 13:18:30 [pool-1-thread-1] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 123: USER_LIST_REQUEST
+2025-05-26 13:18:30 [pool-1-thread-1] INFO  r.v.oop.lab5.server.ClientHandler - User [123] requested user list.
+2025-05-26 13:18:37 [main] INFO  r.v.oop.lab5.server.Server - New client connected: /127.0.0.1:49838
+2025-05-26 13:18:37 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - Client /127.0.0.1:49838 logged in as 312.
+2025-05-26 13:18:37 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_LIST_REQUEST
+2025-05-26 13:18:37 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] requested user list.
+2025-05-26 13:18:40 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_MESSAGE
+2025-05-26 13:18:40 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] sent message: asdad
+2025-05-26 13:18:41 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_MESSAGE
+2025-05-26 13:18:41 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] sent message: adsda
+2025-05-26 13:18:41 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_MESSAGE
+2025-05-26 13:18:41 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] sent message: asdadsa
+2025-05-26 13:18:42 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_MESSAGE
+2025-05-26 13:18:42 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] sent message: adasd
+2025-05-26 13:18:42 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_MESSAGE
+2025-05-26 13:18:42 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] sent message: asdasd
+2025-05-26 13:18:43 [pool-1-thread-2] DEBUG r.v.oop.lab5.server.ClientHandler - Received message from 312: USER_MESSAGE
+2025-05-26 13:18:43 [pool-1-thread-2] INFO  r.v.oop.lab5.server.ClientHandler - User [312] sent message: asdads

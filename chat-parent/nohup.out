@@ -1,0 +1,208 @@
+Using protocol: XML
+2025-05-12 14:16:14.679 java[28017:7765582] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 14:16:14.679 java[28017:7765582] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-12 14:16:15.646 java[28020:7765709] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 14:16:15.646 java[28020:7765709] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Using protocol: XML
+2025-05-12 14:28:54.001 java[28315:7775621] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 14:28:54.001 java[28315:7775621] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-12 14:28:54.972 java[28318:7775723] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 14:28:54.972 java[28318:7775723] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-12 14:29:24.286 java[28356:7776192] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 14:29:24.286 java[28356:7776192] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-12 14:29:25.266 java[28359:7776321] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-12 14:29:25.266 java[28359:7776321] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length header
+Handling connection loss...
+Login Error: Login failed: Username "vad" is already taken.
+Disconnecting fully...
+Fully disconnected.
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Login successful!
+Disconnecting fully...
+ServerListenerThread finished.
+Fully disconnected.
+Using protocol: REST_JSON
+2025-05-15 00:47:47.025 java[98660:9527084] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-15 00:47:47.025 java[98660:9527084] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: REST_JSON
+2025-05-15 00:47:47.853 java[98666:9527203] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-15 00:47:47.854 java[98666:9527203] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:8080
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Connected to server: localhost:12345
+Error reading from server: Failed to read message length
+Handling connection loss...
+ServerListenerThread finished.
+Using protocol: XML
+2025-05-26 12:33:43.975 java[45123:829702] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 12:33:43.975 java[45123:829702] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 12:33:44.975 java[45125:829816] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 12:33:44.975 java[45125:829816] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-26 13:02:37.863 java[46291:845754] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:02:37.863 java[46291:845754] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:02:38.864 java[46293:845857] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:02:38.864 java[46293:845857] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-26 13:04:12.879 java[46447:848227] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:04:12.879 java[46447:848227] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:04:13.872 java[46451:848314] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:04:13.872 java[46451:848314] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-26 13:08:14.758 java[46598:852182] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:08:14.758 java[46598:852182] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:08:15.737 java[46601:852300] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:08:15.737 java[46601:852300] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-26 13:11:49.527 java[46741:855733] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:11:49.527 java[46741:855733] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:11:50.538 java[46744:855845] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:11:50.538 java[46744:855845] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:12:47.405 java[46778:856715] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:12:47.405 java[46778:856715] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:12:48.394 java[46780:856828] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:12:48.394 java[46780:856828] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-26 13:16:03.240 java[46973:860409] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:16:03.240 java[46973:860409] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:16:04.210 java[46976:860548] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:16:04.210 java[46976:860548] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Login Error: Connection error: Connection refused
+Disconnecting fully...
+Fully disconnected.
+Using protocol: XML
+2025-05-26 13:16:31.519 java[47002:860949] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:16:31.519 java[47002:860949] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:16:32.533 java[47004:861073] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:16:32.533 java[47004:861073] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:16:57.445 java[47062:861686] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:16:57.445 java[47062:861686] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:16:58.471 java[47064:861804] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:16:58.471 java[47064:861804] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:18:27.530 java[47185:863612] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:18:27.530 java[47185:863612] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Using protocol: XML
+2025-05-26 13:18:28.538 java[47187:863740] +[IMKClient subclass]: chose IMKClient_Modern
+2025-05-26 13:18:28.538 java[47187:863740] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Connected to server: localhost:8080
+Login successful!
+Connected to server: localhost:8080
+Login successful!
